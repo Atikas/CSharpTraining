@@ -16,21 +16,25 @@
 * DIP atitiktis 								[+] 
 
 
-## Konsolės funkcionalumas                       [0/2]
+## Konsolės funkcionalumas              [1/3]
+* Bendras funkcionavimas          			[-]
 * Gaunamo teksto skaitomumas žmogui			[-]
-* Parengtis automatinams testams               [-]
+* Parengtis automatinams testams        [-]
 
-## El. pašto funkcionalumas                      [0/2]
+## El. pašto funkcionalumas               [0/3]
+* Bendras funkcionavimas          			[-]
 * Gaunamos žinutės skaitomumas žmogui			[-]
-* Email kliento galimų klaidų apdorojimas 		[-]
+* Email kliento galimų klaidų apdorojimas [-]
 
-## Rašymo į failą funkcionalumas                 [2/4]
+## Rašymo į failą funkcionalumas               [2/5]
+* Bendras funkcionavimas          			       [-]
 * Apsauga jei failas neegzistuoja              [+]
 * Apsauga nuo nenumatytų failų rašymo klaidų   [-]
 * Objektų išvalymas iš atminties (IDisposble)  [+]
 * Parengtis automatinams testams               [-]
 
-## Rašymo į duomenų bazę funkcionalumas          [4/8]
+## Rašymo į duomenų bazę funkcionalumas          [4/9]
+* Bendras funkcionavimas          			       [-]
 * Entity framework panaudojimas                [+]
 * Code first ir DB migracijos                  [-]
 * Repository patterno naudojimas ir supratimas [+]
@@ -40,7 +44,8 @@
 * Skaitymo iš bazės funkcionalumas 			[+]
 * Rašymo į bazę funkcionalumas 			    [+]
 
-## RESTapi funkcionalumas                        [1/6]
+## RESTapi funkcionalumas                        [1/7]
+* Bendras funkcionavimas                  		 [-]
 * JSON apdorojimas                             [+]
 * XML apdorojimas                              [-]
 * OpenApi dokumentavimas                       [-]
@@ -61,4 +66,4 @@
 * Darbų skirstymas į blokus 					[-]
 * Tinkamas atlikimo aprašymas 					[-]
 
-# TOTAL 										[10/41]
+# TOTAL 										[10/46]
